@@ -1,0 +1,42 @@
+Array
+(
+    [email] => f
+    [SN] => sdf
+    [interests] => sf
+)
+Array
+(
+    [email] => asdfasdf
+    [SN] => sdfadsfsas
+    [interests] => sfasdfs
+)
+Array
+(
+    [email] => asdfasdf
+    [SN] => sdfadsfsas
+    [interests] => sfasdfs
+)
+Array
+(
+    [email] => email@email.com
+    [SN] => dfdfd
+    [interests] => music
+)
+Array
+(
+    [email] => 
+    [SN] => 
+    [interests] => 
+)
+Array
+(
+    [email] => asdf
+    [SN] => asdf
+    [interests] => asdf
+)
+Array
+(
+    [email] => asdf
+    [SN] => asdf
+    [interests] => asdf
+)
