@@ -16,12 +16,12 @@ $txt .= print_r($_POST, true); // 2 special variables - $_POST/$_GET
 //file_put_contents("./allusers.txt", $txt); // put the text contents into ullusers.txt
 
 // this gets complicated
-$f = fopen("./allusers.csv", "a+");
-fputcsv($f, $_POST);
+$f = fopen("./allusers.csv", "a+"); //fopen = open file (what file, how you want it to open). a+ is to append The + means to start writing at the end of the file
+fputcsv($f, $_POST); // put stuff in the file
 fclose($f);
 
 
 // header("Location: /thankyou.html"); //ask server to send user to the file called thankyou.html
-
+// test message
 
 ?>
